@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shimul Chakraborty
 - 👀 I’m interested in php(laravel), javascript(react.js)
-- 🌱 I’m currently learning Dart(flutter)
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on large scale project
 - 📫 How to reach me ... shimul.ckbt@gmail.com
 
