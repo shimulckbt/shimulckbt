@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shimul Chakraborty
+- 👋 Hello! I’m Shimul Chakraborty
 - 👀 I’m interested in php(laravel), javascript
 - 🌱 I’m currently learning Node.js and React.js
 - 💞️ I’m looking to collaborate on large scale project
