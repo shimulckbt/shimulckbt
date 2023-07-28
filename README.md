@@ -1,4 +1,4 @@
-- 👋 Hi! I’m Shimul Chakraborty
+- 👋 Hi! I’m Shimul
 - 👀 I’m interested in node.js, react.js, next.js
 - 🌱 I’m currently learning Node.js and React.js
 - 💞️ I’m looking to collaborate on large scale project
